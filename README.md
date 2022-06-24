@@ -1,1 +1,1 @@
-# Django-CRUD-task
+# Zuri Django-CRUD-task
